@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ReWeather</string>
+
+    <string name="default_city">City Name</string>
+    <string name="temperature">Temperature:</string>
+    <string name="textview">TextView</string>
+    <string name="humidity">Humidity: </string>
+    <string name="pressure">Pressure: </string>
+    <string name="City">Enter City</string>
+    <string name="CityField">Add City</string>
+    <string name="CityAddButton">Add</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+</resources>
